@@ -1,2 +1,2 @@
-# switchback
-Python script for switching background on Linux
+# Switchback
+Python script for switching backgrounds on Linux
